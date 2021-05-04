@@ -1,2 +1,1 @@
-# forecast-app
-mini project
+# FORECAST APP
